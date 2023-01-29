@@ -1,0 +1,24 @@
+main {
+    margin-left:330px;
+ }
+ .main-section>header {
+    font-size:25px;
+    font-weight:bold;
+    margin:20px;
+ }
+ article {
+    margin-left:40px;
+ }
+ 
+ 
+ code {
+   word-wrap: normal;
+   line-height: 2;
+   background-color: rgb(160, 147, 147);
+   padding: 13px;
+   display: block;
+   position: relative;
+   word-break: normal;
+   margin:10px;
+   border-radius: 5px;
+ }
